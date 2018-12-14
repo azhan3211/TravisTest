@@ -9,7 +9,7 @@ components:
 - platform-tools
 
 # The BuildTools version used by your project
-- build-tools-27.0.2
+- build-tools-27.1.1
 - android-27
 - android-27
 
@@ -21,7 +21,7 @@ components:
 
 # Specify at least one system image,
 # if you need to run emulator(s) during your tests
-- sys-img-armeabi-v7a-addon-google_apis-google-$ANDROID_API
+- sys-img-armeabi-v7a-addon-google_apis-google-27
 - sys-img-armeabi-v7a-android-27
 
 # Support library

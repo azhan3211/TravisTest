@@ -21,8 +21,8 @@ components:
 
 # Specify at least one system image,
 # if you need to run emulator(s) during your tests
-- sys-img-armeabi-v7a-addon-google_apis-google-27
-- sys-img-armeabi-v7a-android-27
+- sys-img-armeabi-v7a-addon-google_apis-google-28
+- sys-img-armeabi-v7a-android-28
 
 # Support library
 - extra-android-support

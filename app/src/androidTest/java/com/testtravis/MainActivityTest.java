@@ -34,9 +34,12 @@ public class MainActivityTest {
         onView(withId(R.id.clickButton))
                 .perform(click());
 
+//        onView(withId(R.id.labelTV))
+//                .check(matches(withText("Test")));
+
         onView(withId(R.id.labelTV))
-                .check(matches(withText("Test")));
-        
+                  .check(matches(withText("Test1")));
+
     }
 
     @After

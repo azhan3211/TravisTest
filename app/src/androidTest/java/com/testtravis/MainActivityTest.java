@@ -36,7 +36,6 @@ public class MainActivityTest {
 
         onView(withId(R.id.labelTV))
                 .check(matches(withText("Test")));
-
     }
 
     @After
